@@ -1,7 +1,7 @@
 import React from 'react'
 
 const About = () => (
-    <div>about</div>
+    <div className="pt-20">about</div>
 )
 
 export default About
